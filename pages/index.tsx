@@ -4,7 +4,7 @@ export default function IndexPage() {
   return (
     <>
     <div>
-      Hello World. <Link href="/about">About</Link>
+      Helloaaa <Link href="/about">About</Link>
     </div>
     <div>
       click directory day  <Link href="/day/index">About</Link>
