@@ -4,10 +4,10 @@ export default function IndexPage() {
   return (
     <>
     <div>
-      Helloaaa <Link href="/about">About</Link>
+      Helloaaaaaaa <Link href="/about">About</Link>
     </div>
     <div>
-      click directory day  <Link href="/day/index">About</Link>
+      click directory day dfdf <Link href="/day">day</Link>
     </div>
     </>
   )
